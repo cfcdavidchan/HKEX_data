@@ -1,0 +1,1 @@
+["date", "message", "security", "trade_ID", "order_ID", "price", "quantily", "trade_type", "trade_time", "side", "order_type", "order_book_position", "aggregated_number_of_shares", "cooling_start", "cooling_end", "VCM", "VCM_lower", "VCM_upper", "reference_price", "lower_price", "upper_price", "order_imbalance_direction"]
